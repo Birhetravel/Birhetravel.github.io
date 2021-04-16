@@ -5,6 +5,11 @@
     padding: 0;
     font-family: 'Playfair Display', serif;
 }
+.by{
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
 body
 {
 background: #000 url(bg.jpg);
@@ -140,6 +145,9 @@ background-attachment: fixed;
     }
     .countdown div:before{
         top: 61px;
+    }
+      .by{
+        padding: 90px;;
     }
   }
   
