@@ -102,6 +102,9 @@ background-attachment: fixed;
         font-size: 40px;
         font-weight: bolder;
     }
+     .by{
+        padding: 70px;;
+    }
   }
   @media (max-width: 768px) {
     .container h2{
@@ -111,6 +114,9 @@ background-attachment: fixed;
     .dy{
         font-size: 30px;
         font-weight: bolder;
+    }
+      .by{
+        padding: 80px;;
     }
   }
   @media (max-width: 576px) {
